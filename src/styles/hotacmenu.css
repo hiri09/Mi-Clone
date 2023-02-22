@@ -1,0 +1,16 @@
+.HotacMenu{
+    display: flex;
+    justify-content: center;
+}
+.HotacLink{
+    text-decoration: none;
+    color: rgb(94, 94, 94);
+    margin: 1vmax;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0.5vmax 0;
+}
+.HotacLink:hover{
+    color: orangered;
+    text-decoration: none;
+    border-bottom: 1px solid orangered;
+}

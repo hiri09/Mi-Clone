@@ -1,0 +1,14 @@
+.offerselection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vmax;
+}
+.offerselection img{
+    margin: 0 1vmax;
+    transition: all 0.5s;
+
+}
+.offerselection img:hover{
+    box-shadow: 6px 6px 15px rgba(55, 55, 55, 0.363);
+}
